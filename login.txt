@@ -1,1 +1,1 @@
-UI tasarımı geliştirildi
+[+] UI improved

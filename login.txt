@@ -1,1 +1,4 @@
-[+] UI improved
+[+] UI gelistirildi
+[+] Ezglobal Eklendi
+[+] Monolith Eklendi
+[+] Config Sistemi Eklendi
